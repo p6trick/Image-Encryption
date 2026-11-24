@@ -1,0 +1,7 @@
+{
+  "repository": "CIDAS/clipseg-rd64-refined",
+  "revision": "999e0328d9e10b484360c477313983f9afdd7050",
+  "license": "apache-2.0",
+  "weights_tracked_in_git": false,
+  "local_storage": "regular files after running download_model.py"
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "RefCOCO validation subset (UNC-compatible mirror)",
+  "pilot_only": true,
+  "prompt_mode": "word",
+  "count": 20,
+  "unique_images": 20,
+  "seed": 42,
+  "threshold": 0.5,
+  "model": "CIDAS/clipseg-rd64-refined",
+  "model_revision": "999e0328d9e10b484360c477313983f9afdd7050",
+  "mean_iou": 0.284914370394879,
+  "mean_dice": 0.39088147631080405,
+  "overall_iou": 0.27466539399860684,
+  "empty_predictions": 0,
+  "exact_restorations": 20,
+  "model_load_seconds": 0.22855090722441673,
+  "mean_segmentation_seconds": 0.3084283847361803,
+  "notes": "Fixed images, same instance GT, no threshold tuning. Word mode uses GT category names and removes instance-disambiguation cues; not standard RefCOCO evaluation. Restoration verified on nonempty predictions only."
+}

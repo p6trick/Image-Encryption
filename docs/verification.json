@@ -1,0 +1,21 @@
+{
+  "all_passed": true,
+  "network_socket_connections_blocked": true,
+  "packages": {
+    "torch": "2.14.1+cpu",
+    "torchvision": "0.29.1+cpu",
+    "transformers": "4.57.6",
+    "numpy": "2.4.6",
+    "Pillow": "13.0.0",
+    "matplotlib": "3.11.2",
+    "pyarrow": "26.0.0",
+    "pycocotools": "2.0.11",
+    "requests": "2.34.2",
+    "safetensors": "0.8.0",
+    "scikit-image": "0.26.0"
+  },
+  "pixel_restoration_verified": true,
+  "twenty_unique_images_per_mode": true,
+  "text_changes_mask": true,
+  "scope": "Linux CPU, existing school environment with user site disabled; not a clean-machine installation test"
+}

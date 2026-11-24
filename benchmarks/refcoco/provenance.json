@@ -1,0 +1,7 @@
+{
+  "repository": "jxu124/refcoco",
+  "revision": "9fba8200c5326e996f789191f095bd464ef1d09e",
+  "official_api": "https://github.com/lichengunc/refer",
+  "note": "Third-party mirror; val/train/testA-equivalent/testB counts match UNC release. No independent full-release equivalence audit.",
+  "annotation_sha256": "df03b1b16873f92727f3df010afb3c7260e8396a86592d3c4fee053daca08c05"
+}

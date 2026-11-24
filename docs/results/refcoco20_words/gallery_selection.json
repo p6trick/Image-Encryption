@@ -1,0 +1,10 @@
+{
+  "description": "Display exclusions only. Original five-row page groups and all 20 evaluation samples remain unchanged.",
+  "excluded_ref_ids": [42403, 38109, 30714, 46960, 11775, 45684, 20324, 7354, 24898],
+  "page_rules": {
+    "gallery_1": "Remove all person rows (original rows 2, 3, 4, 5)",
+    "gallery_2": "Remove bear and all person rows (original rows 1, 4, 5)",
+    "gallery_3": "Remove original rows 3 and 5 only",
+    "gallery_4": "Unchanged"
+  }
+}
